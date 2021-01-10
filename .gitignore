@@ -10,3 +10,6 @@
 # Unsolved file #
 #############
 *.cppx
+
+# goorm #
+goorm.manifest
